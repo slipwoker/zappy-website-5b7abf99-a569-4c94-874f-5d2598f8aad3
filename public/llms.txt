@@ -1,0 +1,100 @@
+# אתר בקליק — Generative Engine Optimization Map
+
+> A marketing landing page for an XL-sized flavored can drink with a lychee (ליצי) flavor. The product is a large-format beverage can, likely positioned as a refreshing or energizing drink. The page should focus on showcasing the product visually and driving conversions.
+
+---
+
+## Pages
+
+### בית
+https://-5b7abf99.zappy5.app
+משקה אנרגיה אורגני בטעם ליצ׳י מרענן, אפס קלוריות ובפורמט ענק XL. התפנקו בחוויית טעם טבעית וממריצה שמתאימה לכל רגע — הצטרפו עכשיו למהפכה!
+
+### חוויית טעם
+https://-5b7abf99.zappy5.app/flavor-experience
+צללו לעומק חוויית הטעם של הליצ׳י — מתיקות עדינה עם בעיטה אנרגטית, אפס קלוריות וללא פשרות. כל לגימה היא מסע רענן שכדאי לכם לטעום בעצמכם!
+
+### עולם המותג
+https://-5b7abf99.zappy5.app/brand-world
+הכירו את הסיפור מאחורי המותג שמוביל את מהפכת משקאות האנרגיה האורגניים דלי הקלוריות. עולם של טבעיות, עוצמה ועיצוב XL — בואו לגלות מה מניע אותנו.
+
+### צור קשר
+https://-5b7abf99.zappy5.app/contact
+מוכנים להכניס את משקה הליצ׳י האורגני דל הקלוריות לחיים שלכם? צרו קשר עוד היום להזמנות Bulk, שיתופי פעולה או כל שאלה — אנחנו כאן כדי להמריץ אתכם!
+
+### Products
+https://-5b7abf99.zappy5.app/products
+המוצרים שלנו - אתר בקליק
+
+### Cart
+https://-5b7abf99.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-5b7abf99.zappy5.app/checkout
+תשלום
+
+### Login
+https://-5b7abf99.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-5b7abf99.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-5b7abf99.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-5b7abf99.zappy5.app/product/:slug
+פרטי המוצר - אתר בקליק
+
+### Category
+https://-5b7abf99.zappy5.app/category/:slug
+מוצרים - אתר בקליק
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5b7abf99.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5b7abf99.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5b7abf99.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אתר בקליק
+A marketing landing page for an XL-sized flavored can drink with a lychee (ליצי) flavor. The product is a large-format beverage can, likely positioned as a refreshing or energizing drink. The page should focus on showcasing the product visually and driving conversions.
+
+## Target Audience
+- חובבי ספורט אקסטרים
+- מקצוענים עירוניים צעירים
+- קהילת הגיימרים
+
+## Industry
+Beverage / Energy Drinks
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5b7abf99.zappy5.app/sitemap.xml
+- Robots: https://-5b7abf99.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5b7abf99.zappy5.app/llms-full.txt
+- Products (JSON): https://-5b7abf99.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-5b7abf99.zappy5.app/product-feed.xml
