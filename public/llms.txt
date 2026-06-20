@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-5b7abf99.zappy5.app
+https://example.com
 משקה אנרגיה אורגני בטעם ליצ׳י מרענן, אפס קלוריות ובפורמט ענק XL. התפנקו בחוויית טעם טבעית וממריצה שמתאימה לכל רגע — הצטרפו עכשיו למהפכה!
 
 ### חוויית טעם
-https://-5b7abf99.zappy5.app/flavor-experience
+https://example.com/flavor-experience
 צללו לעומק חוויית הטעם של הליצ׳י — מתיקות עדינה עם בעיטה אנרגטית, אפס קלוריות וללא פשרות. כל לגימה היא מסע רענן שכדאי לכם לטעום בעצמכם!
 
 ### עולם המותג
-https://-5b7abf99.zappy5.app/brand-world
+https://example.com/brand-world
 הכירו את הסיפור מאחורי המותג שמוביל את מהפכת משקאות האנרגיה האורגניים דלי הקלוריות. עולם של טבעיות, עוצמה ועיצוב XL — בואו לגלות מה מניע אותנו.
 
 ### צור קשר
-https://-5b7abf99.zappy5.app/contact
+https://example.com/contact
 מוכנים להכניס את משקה הליצ׳י האורגני דל הקלוריות לחיים שלכם? צרו קשר עוד היום להזמנות Bulk, שיתופי פעולה או כל שאלה — אנחנו כאן כדי להמריץ אתכם!
 
 ### Products
-https://-5b7abf99.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אתר בקליק
 
 ### Cart
-https://-5b7abf99.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-5b7abf99.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-5b7abf99.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-5b7abf99.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-5b7abf99.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-5b7abf99.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אתר בקליק
 
 ### Category
-https://-5b7abf99.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אתר בקליק
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5b7abf99.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5b7abf99.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5b7abf99.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Beverage / Energy Drinks
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5b7abf99.zappy5.app/sitemap.xml
-- Robots: https://-5b7abf99.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5b7abf99.zappy5.app/llms-full.txt
-- Products (JSON): https://-5b7abf99.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-5b7abf99.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
